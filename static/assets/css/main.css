@@ -1,7 +1,10 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;1,200&display=swap');
-
+@font-face {
+	font-family: 'Source Sans 3';
+	src: url('../fonts/SourceSans3-VariableFont_wght.ttf') format('truetype'); /* Cambia la ruta y el formato según tus archivos de fuente */
+	/* Puedes agregar más formatos de fuente si lo deseas, por ejemplo: format('truetype') */
+  }
 /*
 	Identity by HTML5 UP
 	html5up.net | @n33co
